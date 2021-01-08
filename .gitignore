@@ -1,0 +1,4 @@
+uvc_capture_aml
+*.rgb
+*.h264
+*.patch
